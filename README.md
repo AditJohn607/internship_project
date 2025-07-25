@@ -1,6 +1,6 @@
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Identify patterns and causes behind high return rates.
 - Analyze behavior by customer demographics, product categories, shipping types, and order timing.
@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 | Tool          | Purpose                         |
 |---------------|----------------------------------|
@@ -20,7 +20,7 @@
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 ### Day 2: Python Visuals
 - Return rate by Age
