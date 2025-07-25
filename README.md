@@ -22,7 +22,7 @@
 
 ## Visualizations
 
-### Day 2: Python Visuals
+# Python Visuals
 - Return rate by Age
 - Product Category vs ReturnFlag
 - Correlation Heatmap
